@@ -1,0 +1,26 @@
+{
+  "videos": [
+    {
+      "id": "v01",
+      "titleKey": "timelineEvents.e04.title",
+      "src": "/media/videos/anniversary.mp4",
+      "poster": "/media/photos/placeholder-04.jpg"
+    }
+  ],
+  "music": [
+    {
+      "id": "track1",
+      "titleKey": "music.track1.title",
+      "artistKey": "music.track1.artist",
+      "src": "/media/audio/our-song.mp3",
+      "cover": "/media/photos/music-cover-01.jpg"
+    },
+    {
+      "id": "track2",
+      "titleKey": "music.track2.title",
+      "artistKey": "music.track2.artist",
+      "src": "/media/audio/golden-memory.mp3",
+      "cover": "/media/photos/music-cover-02.jpg"
+    }
+  ]
+}

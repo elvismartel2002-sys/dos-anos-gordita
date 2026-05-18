@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "DOIS ANOS GORDITA",
+    "description": "Nossa história — dois anos juntos"
+  },
+  "language": {
+    "title": "Escolha seu idioma",
+    "subtitle": "Elige tu idioma · Choose your language",
+    "es": "Español",
+    "en": "English",
+    "pt": "Português"
+  },
+  "intro": {
+    "preload": "Preparando nossas memórias…",
+    "line1": "Há 730 dias",
+    "line2": "Dois anos de risadas, abraços e amor",
+    "line3": "Esta é a nossa história",
+    "cta": "Começar",
+    "skip": "Pular intro"
+  },
+  "login": {
+    "title": "Só para nós",
+    "subtitle": "A palavra que só nós conhecemos",
+    "placeholder": "Sua resposta…",
+    "submit": "Entrar",
+    "error": "Quase… tenta de novo, gordita",
+    "hint": "Dica: uma data que nunca esqueceremos"
+  },
+  "profiles": {
+    "title": "Quem está assistindo?",
+    "her": "Ela",
+    "him": "Ele",
+    "us": "Nós",
+    "taglineHer": "A protagonista desta história",
+    "taglineHim": "Quem te ama todos os dias",
+    "taglineUs": "Nossa melhor versão",
+    "continue": "Continuar"
+  },
+  "nav": {
+    "next": "Próximo",
+    "back": "Voltar",
+    "home": "Início"
+  },
+  "timeline": {
+    "title": "Nossa linha do tempo",
+    "subtitle": "Cada momento importou"
+  },
+  "story": {
+    "title": "Capítulos de nós",
+    "subtitle": "Deslize com o coração"
+  },
+  "gallery": {
+    "title": "Galeria do coração",
+    "subtitle": "Memórias que brilham"
+  },
+  "media": {
+    "title": "Cinema e música",
+    "subtitle": "O som do nosso amor",
+    "videos": "Vídeos",
+    "music": "Trilha sonora"
+  },
+  "letter": {
+    "title": "Para você, gordita",
+    "subtitle": "Abra com cuidado",
+    "open": "Abrir carta",
+    "signature": "Com todo o meu amor"
+  },
+  "finale": {
+    "title": "Feliz aniversário",
+    "line1": "Obrigado por estes dois anos",
+    "line2": "Você é meu lar, minha paz e minha alegria",
+    "line3": "Te amo hoje e sempre",
+    "cta": "Voltar ao início"
+  },
+  "timelineEvents": {
+    "e01": { "title": "O primeiro olá", "body": "O dia em que o universo conspirou para nos encontrarmos." },
+    "e02": { "title": "Nosso primeiro encontro", "body": "Nervos, sorrisos e a certeza de que algo especial começava." },
+    "e03": { "title": "Primeiro eu te amo", "body": "Palavras que mudaram tudo, ditas com o coração na mão." },
+    "e04": { "title": "18 de abril", "body": "A data que selou nosso começo oficial. O nosso dia." },
+    "e05": { "title": "Primeira aventura juntos", "body": "Novos lugares, mesmas mãos entrelaçadas." },
+    "e06": { "title": "Risadas até tarde", "body": "Noites de conversa, memes e abraços que curam tudo." },
+    "e07": { "title": "Superando tempestades", "body": "Aprendemos que juntos somos mais fortes que qualquer obstáculo." },
+    "e08": { "title": "Nosso lar", "body": "Não é um lugar: é você, ao meu lado." },
+    "e09": { "title": "Um ano juntos", "body": "365 dias de amor. O primeiro grande capítulo." },
+    "e10": { "title": "Sonhos em equipe", "body": "Planos, metas e um futuro que construímos juntos." },
+    "e11": { "title": "Pequenos rituais", "body": "Café, séries, caminhadas: o cotidiano feito eterno." },
+    "e12": { "title": "Hoje — 2 anos", "body": "730 dias sendo eu e você. E isso é só o começo, gordita." }
+  },
+  "storyChapters": {
+    "c01": { "title": "Capítulo I — O encontro", "body": "Todo grande amor começa com um instante que parece casual, mas o destino planejou." },
+    "c02": { "title": "Capítulo II — Construindo", "body": "Dia a dia, tijolo a tijolo, erguemos algo que nenhuma tempestade derruba." },
+    "c03": { "title": "Capítulo III — Para sempre", "body": "Não prometo dias perfeitos, mas amor real, presente e verdadeiro." }
+  },
+  "galleryChapters": {
+    "ch1": "Primeiros meses",
+    "ch2": "Aventuras",
+    "ch3": "Lar",
+    "ch4": "Hoje"
+  },
+  "music": {
+    "track1": { "title": "Nossa canção", "artist": "A trilha de nós" },
+    "track2": { "title": "Memória dourada", "artist": "Momentos inesquecíveis" }
+  },
+  "letterBody": {
+    "p1": "Meu amor, minha gordita, minha pessoa favorita neste mundo:",
+    "p2": "Escrever estas linhas é tentar capturar em palavras algo que só o coração entende. Dois anos ao seu lado foram o maior presente da minha vida.",
+    "p3": "Obrigado pela sua paciência, seu riso, sua ternura e por me escolher todos os dias. Com você aprendi que o amor não é perfeito: é real, é constante, somos nós.",
+    "p4": "Que este pequeno universo digital seja só uma sombra do que sinto por você. Por muitos anos mais, juntos, sempre.",
+    "p5": "Te amo."
+  }
+}

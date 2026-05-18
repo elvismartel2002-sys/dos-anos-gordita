@@ -1,0 +1,20 @@
+[
+  {
+    "id": "her",
+    "nameKey": "profiles.her",
+    "taglineKey": "profiles.taglineHer",
+    "avatar": "/media/photos/profile-her.jpg"
+  },
+  {
+    "id": "him",
+    "nameKey": "profiles.him",
+    "taglineKey": "profiles.taglineHim",
+    "avatar": "/media/photos/profile-him.jpg"
+  },
+  {
+    "id": "us",
+    "nameKey": "profiles.us",
+    "taglineKey": "profiles.taglineUs",
+    "avatar": "/media/photos/profile-us.jpg"
+  }
+]

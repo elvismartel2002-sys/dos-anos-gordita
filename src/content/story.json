@@ -1,0 +1,33 @@
+[
+  {
+    "id": "c01",
+    "titleKey": "storyChapters.c01.title",
+    "bodyKey": "storyChapters.c01.body",
+    "media": {
+      "type": "image",
+      "src": "/media/photos/story-01.jpg",
+      "alt": "Capítulo 1"
+    }
+  },
+  {
+    "id": "c02",
+    "titleKey": "storyChapters.c02.title",
+    "bodyKey": "storyChapters.c02.body",
+    "media": {
+      "type": "image",
+      "src": "/media/photos/story-02.jpg",
+      "alt": "Capítulo 2"
+    }
+  },
+  {
+    "id": "c03",
+    "titleKey": "storyChapters.c03.title",
+    "bodyKey": "storyChapters.c03.body",
+    "media": {
+      "type": "video",
+      "src": "/media/videos/story-03.mp4",
+      "poster": "/media/photos/story-03-poster.jpg",
+      "alt": "Capítulo 3"
+    }
+  }
+]

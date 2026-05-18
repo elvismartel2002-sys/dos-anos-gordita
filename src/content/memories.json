@@ -1,0 +1,41 @@
+[
+  {
+    "id": "m01",
+    "chapterKey": "galleryChapters.ch1",
+    "type": "photo",
+    "src": "/media/photos/placeholder-01.jpg",
+    "captionKey": "timelineEvents.e01.title"
+  },
+  {
+    "id": "m02",
+    "chapterKey": "galleryChapters.ch1",
+    "type": "photo",
+    "src": "/media/photos/placeholder-02.jpg"
+  },
+  {
+    "id": "m03",
+    "chapterKey": "galleryChapters.ch2",
+    "type": "photo",
+    "src": "/media/photos/placeholder-03.jpg"
+  },
+  {
+    "id": "m04",
+    "chapterKey": "galleryChapters.ch2",
+    "type": "video",
+    "src": "/media/videos/memory-01.mp4",
+    "poster": "/media/photos/placeholder-04.jpg"
+  },
+  {
+    "id": "m05",
+    "chapterKey": "galleryChapters.ch3",
+    "type": "photo",
+    "src": "/media/photos/placeholder-05.jpg"
+  },
+  {
+    "id": "m06",
+    "chapterKey": "galleryChapters.ch4",
+    "type": "photo",
+    "src": "/media/photos/placeholder-finale.jpg",
+    "captionKey": "finale.title"
+  }
+]

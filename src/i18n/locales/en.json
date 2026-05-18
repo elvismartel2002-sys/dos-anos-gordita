@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "TWO YEARS GORDITA",
+    "description": "Our story — two years together"
+  },
+  "language": {
+    "title": "Choose your language",
+    "subtitle": "Elige tu idioma · Escolha seu idioma",
+    "es": "Español",
+    "en": "English",
+    "pt": "Português"
+  },
+  "intro": {
+    "preload": "Preparing our memories…",
+    "line1": "730 days ago",
+    "line2": "Two years of laughter, hugs, and love",
+    "line3": "This is our story",
+    "cta": "Begin",
+    "skip": "Skip intro"
+  },
+  "login": {
+    "title": "Just for us",
+    "subtitle": "The word only we know",
+    "placeholder": "Your answer…",
+    "submit": "Enter",
+    "error": "Almost… try again, gordita",
+    "hint": "Hint: a date we'll never forget"
+  },
+  "profiles": {
+    "title": "Who's watching?",
+    "her": "Her",
+    "him": "Him",
+    "us": "Us",
+    "taglineHer": "The leading lady of this story",
+    "taglineHim": "The one who loves you every day",
+    "taglineUs": "Our best version together",
+    "continue": "Continue"
+  },
+  "nav": {
+    "next": "Next",
+    "back": "Back",
+    "home": "Home"
+  },
+  "timeline": {
+    "title": "Our timeline",
+    "subtitle": "Every moment mattered"
+  },
+  "story": {
+    "title": "Chapters of us",
+    "subtitle": "Scroll with your heart"
+  },
+  "gallery": {
+    "title": "Gallery of the heart",
+    "subtitle": "Memories that shine"
+  },
+  "media": {
+    "title": "Cinema & music",
+    "subtitle": "The sound of our love",
+    "videos": "Videos",
+    "music": "Soundtrack"
+  },
+  "letter": {
+    "title": "For you, gordita",
+    "subtitle": "Open gently",
+    "open": "Open letter",
+    "signature": "With all my love"
+  },
+  "finale": {
+    "title": "Happy anniversary",
+    "line1": "Thank you for these two years",
+    "line2": "You are my home, my peace, and my joy",
+    "line3": "I love you today and always",
+    "cta": "Back to start"
+  },
+  "timelineEvents": {
+    "e01": { "title": "The first hello", "body": "The day the universe conspired for us to meet." },
+    "e02": { "title": "Our first date", "body": "Nerves, smiles, and the feeling that something special was beginning." },
+    "e03": { "title": "First I love you", "body": "Words that changed everything, spoken with hearts in hand." },
+    "e04": { "title": "April 18th", "body": "The date that sealed our official beginning. Our day." },
+    "e05": { "title": "First adventure together", "body": "New places, same intertwined hands." },
+    "e06": { "title": "Laughing until late", "body": "Nights of talk, memes, and hugs that heal everything." },
+    "e07": { "title": "Weathering storms", "body": "We learned that together we're stronger than any obstacle." },
+    "e08": { "title": "Our home", "body": "It's not a place: it's you, by my side." },
+    "e09": { "title": "One year together", "body": "365 days of love. The first great chapter." },
+    "e10": { "title": "Dreams as a team", "body": "Plans, goals, and a future we build together." },
+    "e11": { "title": "Little rituals", "body": "Coffee, shows, walks: the ordinary made eternal." },
+    "e12": { "title": "Today — 2 years", "body": "730 days of you and me. And this is only the beginning, gordita." }
+  },
+  "storyChapters": {
+    "c01": { "title": "Chapter I — The meeting", "body": "Every great love starts with a moment that seems random, but destiny planned it." },
+    "c02": { "title": "Chapter II — Building", "body": "Day by day, brick by brick, we built something no storm can tear down." },
+    "c03": { "title": "Chapter III — Forever", "body": "I don't promise perfect days, but real, present, true love." }
+  },
+  "galleryChapters": {
+    "ch1": "Early days",
+    "ch2": "Adventures",
+    "ch3": "Home",
+    "ch4": "Today"
+  },
+  "music": {
+    "track1": { "title": "Our song", "artist": "The soundtrack of us" },
+    "track2": { "title": "Golden memory", "artist": "Moments we won't forget" }
+  },
+  "letterBody": {
+    "p1": "My love, my gordita, my favorite person in this world:",
+    "p2": "Writing these lines is trying to capture in words something only the heart understands. Two years by your side have been the greatest gift of my life.",
+    "p3": "Thank you for your patience, your laugh, your tenderness, and for choosing me every day. With you I learned that love isn't perfect: it's real, constant, it's us.",
+    "p4": "May this little digital universe be only a shadow of what I feel for you. To many more years together, always.",
+    "p5": "I love you."
+  }
+}

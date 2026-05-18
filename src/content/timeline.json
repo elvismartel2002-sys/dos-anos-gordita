@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e01",
+    "date": "2024-02-01",
+    "titleKey": "timelineEvents.e01.title",
+    "bodyKey": "timelineEvents.e01.body",
+    "mood": "joy",
+    "media": [{ "type": "image", "src": "/media/photos/placeholder-01.jpg", "alt": "Recuerdo 1" }]
+  },
+  {
+    "id": "e02",
+    "date": "2024-03-10",
+    "titleKey": "timelineEvents.e02.title",
+    "bodyKey": "timelineEvents.e02.body",
+    "mood": "love"
+  },
+  {
+    "id": "e03",
+    "date": "2024-03-25",
+    "titleKey": "timelineEvents.e03.title",
+    "bodyKey": "timelineEvents.e03.body",
+    "mood": "love"
+  },
+  {
+    "id": "e04",
+    "date": "2024-04-18",
+    "titleKey": "timelineEvents.e04.title",
+    "bodyKey": "timelineEvents.e04.body",
+    "mood": "love",
+    "highlight": true,
+    "media": [{ "type": "image", "src": "/media/photos/placeholder-04.jpg", "alt": "18 de abril" }]
+  },
+  {
+    "id": "e05",
+    "date": "2024-06-15",
+    "titleKey": "timelineEvents.e05.title",
+    "bodyKey": "timelineEvents.e05.body",
+    "mood": "adventure"
+  },
+  {
+    "id": "e06",
+    "date": "2024-08-20",
+    "titleKey": "timelineEvents.e06.title",
+    "bodyKey": "timelineEvents.e06.body",
+    "mood": "joy"
+  },
+  {
+    "id": "e07",
+    "date": "2024-10-05",
+    "titleKey": "timelineEvents.e07.title",
+    "bodyKey": "timelineEvents.e07.body",
+    "mood": "growth"
+  },
+  {
+    "id": "e08",
+    "date": "2024-11-12",
+    "titleKey": "timelineEvents.e08.title",
+    "bodyKey": "timelineEvents.e08.body",
+    "mood": "home"
+  },
+  {
+    "id": "e09",
+    "date": "2025-04-18",
+    "titleKey": "timelineEvents.e09.title",
+    "bodyKey": "timelineEvents.e09.body",
+    "mood": "love",
+    "highlight": true
+  },
+  {
+    "id": "e10",
+    "date": "2025-08-01",
+    "titleKey": "timelineEvents.e10.title",
+    "bodyKey": "timelineEvents.e10.body",
+    "mood": "growth"
+  },
+  {
+    "id": "e11",
+    "date": "2026-02-14",
+    "titleKey": "timelineEvents.e11.title",
+    "bodyKey": "timelineEvents.e11.body",
+    "mood": "home"
+  },
+  {
+    "id": "e12",
+    "date": "2026-04-18",
+    "titleKey": "timelineEvents.e12.title",
+    "bodyKey": "timelineEvents.e12.body",
+    "mood": "love",
+    "highlight": true,
+    "media": [{ "type": "video", "src": "/media/videos/anniversary.mp4", "poster": "/media/photos/placeholder-finale.jpg", "alt": "2 años" }]
+  }
+]
